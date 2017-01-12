@@ -1,6 +1,6 @@
 p {
 
-	color: red;
+	color: grey;
 	width: 500px;
 	border:1px solid black;
 }
@@ -32,4 +32,8 @@ h1#title {
 img {
   display: block;
   margin: 0 auto;
+}
+
+ul {
+	font-weight: bold;
 }
